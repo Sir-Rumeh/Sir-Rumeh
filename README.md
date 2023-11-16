@@ -11,4 +11,6 @@ What fuels my passion is the dynamic nature of this field. I'm constantly learni
 I am seeking opportunities that allow me to leverage my skills, creativity, and passion to contribute meaningfully to innovative projects. Let's collaborate and build the next generation of remarkable digital experiences together.
 
 
-![react](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/4a7d90fc-a63a-4107-ac78-d2a1d258c7af)
+## Skills
+
+![react](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/4a7d90fc-a63a-4107-ac78-d2a1d258c7af) ![nextjs](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/bce50f65-0d3f-4da2-a4f6-5e13207e17e1)  ![javascript](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/64b51a90-317e-42fd-995c-d624163133e0)  ![typescript](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/7ee12f56-fa51-4a39-8f06-a45cac64db54)  ![node](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/36921252-4655-444c-bc47-6d393da1b212)
