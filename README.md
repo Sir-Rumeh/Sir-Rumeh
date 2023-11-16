@@ -9,3 +9,6 @@ I am well-versed in using TypeScript, Javascript and React as well as other reso
 What fuels my passion is the dynamic nature of this field. I'm constantly learning, evolving, and embracing emerging trends to stay at the forefront of frontend development. My commitment to continuous improvement is evident in my knack for adopting best practices, exploring new frameworks, and integrating innovative solutions into my workflow.
 
 I am seeking opportunities that allow me to leverage my skills, creativity, and passion to contribute meaningfully to innovative projects. Let's collaborate and build the next generation of remarkable digital experiences together.
+
+
+![react](https://github.com/Sir-Rumeh/Sir-Rumeh/assets/95687544/4a7d90fc-a63a-4107-ac78-d2a1d258c7af)
